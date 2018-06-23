@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="items">
+        <item>测试01</item>
+        <item>测试02</item>
+        <item>测试03</item>
+        <item>测试04</item>
+        <item>测试05</item>
+        <item>测试06</item>
+        <item>测试07</item>
+        <item>测试08</item>
+        <item>测试09</item>
+        <item>测试10</item>
+    </string-array>
+
+    <string-array name="buttons">
+        <item>测试题页面1</item>
+        <!--<item>测试题页面2</item>-->
+    </string-array>
+</resources>
